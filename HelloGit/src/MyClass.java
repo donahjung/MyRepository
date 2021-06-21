@@ -4,5 +4,6 @@ public class MyClass {
 		System.out.println("Hello Git!");
 		System.out.println("this is my github");
 		new MyHello().sayHello();
+		System.out.println("Change in master branch");
 	}
 }
